@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-06T06:27:55Z" name="Default suite" finished-at="2023-10-06T06:28:16Z" duration-ms="20730">
+    <groups>
+    </groups>
+    <test started-at="2023-10-06T06:27:55Z" name="Default test" finished-at="2023-10-06T06:28:16Z" duration-ms="20730">
+      <class name="com.siam.Automation">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.siam.Automation@1e44b638]" started-at="2023-10-06T12:27:52Z" name="startBrowser" finished-at="2023-10-06T12:27:55Z" duration-ms="3032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="openUrl()[pri:0, instance:com.siam.Automation@1e44b638]" started-at="2023-10-06T12:27:55Z" name="openUrl" finished-at="2023-10-06T12:28:16Z" duration-ms="20704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.siam.Automation@1e44b638]" started-at="2023-10-06T12:28:16Z" name="close" finished-at="2023-10-06T12:28:16Z" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.siam.Automation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
